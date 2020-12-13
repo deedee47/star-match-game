@@ -1,3 +1,10 @@
+# Star Match Game
+
+This is a sample project to get familiar with React and Javascript.
+It is an in-browser game of numbers
+
+Setup includes the create-react-app hence the documentation below.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
