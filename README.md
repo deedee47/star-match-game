@@ -3,6 +3,18 @@
 This is a sample project to get familiar with React and Javascript.
 It is an in-browser game of numbers
 
+## Major React Concepts
+
+- States
+- UI Behaviour
+- Transactions on State
+- Resetting State
+- Using Side Effects (useEffects)
+- Custom Hooks
+- Data Flow from Parent to Child Components
+- Computations in Components
+- Mounting and Unmounting components
+
 Setup includes the create-react-app hence the documentation below.
 
 # Getting Started with Create React App
